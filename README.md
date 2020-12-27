@@ -18,9 +18,9 @@ I am a developer who is passionate about stuff like deep learning.
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning on front end development using ReactJS 🤖
 - 🖖 I put mostly of my focus on web development with JavaScript 🏆
 - 💬 Ask me about: tech, anime and a little bit about comedy movies.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> Ask me about why do I think aliens 👽 exist.
 - __GOAL__ : Full stack Development 🦾 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: My smartness 💡 lies in my laziness 😴
 
 
 "Do not expect from others what you expect of yourself."
