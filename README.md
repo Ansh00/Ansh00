@@ -3,7 +3,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ansh00)
 [![GitHub followers](https://img.shields.io/github/followers/Ansh00.svg?style=social&label=Follow)](https://github.com/Ansh00?tab=followers)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 <p align="center">
