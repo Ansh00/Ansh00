@@ -26,7 +26,7 @@ I am a developer who is passionate about stuff like deep learning.
 <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ansh00&layout=compact&langs_count=8&theme=algolia">
 </p>
 
-## 🛠 Tech Stack / Skills
+## 🛠 Tech Stack / Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  <div>
   <img src="https://img.shields.io/badge/html%20-orange.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/css%20-%230085ff.svg?&style=for-the-badge"/>
