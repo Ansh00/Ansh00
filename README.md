@@ -39,7 +39,7 @@ I am a developer who is passionate about stuff like deep learning.
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/linux-black?&style=for-the-badge&logo=arch-linux&logoColor=blue"/>
 </div>
 
 
