@@ -1,13 +1,16 @@
 
 ![](https://www.freelogodesign.org/file/app/client/thumb/aae78f9c-a0a5-4645-a779-85f4b5be1a3f_200x200.png?1609063516075)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ansh00)
+[![GitHub followers](https://img.shields.io/github/followers/Ansh00.svg?style=social&label=Follow)](https://github.com/Ansh00?tab=followers)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 <p align="center">
   <a href="#">
     <img align="center" width="280" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
   </a>
   </p>
-
-
 
 ## My name is Anshul Raghuwanshi 😃
 I am a developer who is passionate about stuff like deep learning. 
