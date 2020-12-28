@@ -24,12 +24,7 @@ I am a developer who is passionate about stuff like deep learning.
 
 "Do not expect from others what you expect of yourself."
 
-<p>
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Ansh00&count_private=true&show_icons=true&theme=tokyonight">
-</p
-<p>
-<img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ansh00&layout=compact&langs_count=8&theme=algolia">
-</p>
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Ansh00&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh00&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 ## 🛠 Tech Stack / Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  <div>
