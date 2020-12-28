@@ -26,7 +26,7 @@ I am a developer who is passionate about stuff like deep learning.
 
 <p>
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Ansh00&count_private=true&show_icons=true&theme=tokyonight">
-</p>
+</p
 <p>
 <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ansh00&layout=compact&langs_count=8&theme=algolia">
 </p>
